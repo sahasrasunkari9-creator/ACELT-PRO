@@ -20,7 +20,7 @@ AI-powered Smart Learning Platform
 - LocalStorage
 
 ## Live Website
-https://your-username.github.io/acelt-pro/
+https://sahasrasunkari9.github.io/acelt-pro/
 
 ## Author
 Sahasra Sunkari
